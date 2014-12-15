@@ -1,4 +1,4 @@
-err-time an err plugin to give you various images from searches or sites
+err-imagebot: an err plugin to give you various images from searches or sites
 ========================================================================
 
 For more information about err you can find it here: https://github.com/gbin/err
